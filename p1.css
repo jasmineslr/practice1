@@ -1,0 +1,127 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  height: 430px;
+  background-color: #1f2937;
+  padding: 10px 200px 0 200px;
+  color: #fff;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.header h1 {
+  width: 400px;
+  align-items: end;
+  flex-grow: 1;
+}
+.header a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  margin: 0 10px 0 10px;
+}
+.p2 b {
+  font-size: 40px;
+}
+.colum1 {
+  padding-top: 100px;
+  width: 400px;
+}
+.title1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.sampleimg {
+  width: 500px;
+}
+.colum2 {
+  padding: 100px 0 0 100px;
+  width: 200px;
+}
+.btn1 {
+  color: #fff;
+  border: none;
+  padding: 5px 20px 5px 20px;
+  border-radius: 5px;
+  background-color: #3b82f6;
+  margin-top: 30px;
+}
+.title2 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+  margin: 50px;
+}
+.items {
+  margin: 10px 0 100px 0;
+  display: flex;
+  justify-content: center;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.wholepack {
+  display: inline-block;
+  width: 160px;
+}
+.wholepack p {
+  font-size: 13px;
+  margin: 0 16px;
+  text-align: center;
+}
+.box div {
+  width: 160px;
+  height: 120px;
+  border-radius: 10px;
+  border: 3px solid #3b82f6;
+  margin: 5px 20px;
+}
+.text {
+  background-color: #e5e7eb;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+.text p {
+  text-align: end;
+  width: 40%;
+  margin-top: 70px;
+  font-size: 24px;
+}
+.text p i {
+  text-align: start;
+  display: flex;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.author {
+  font-size: 20px;
+  text-align: end;
+}
+.bluebox {
+  color: #fff;
+  height: 100px;
+  border-radius: 10px;
+  margin: 100px 350px;
+  background-color: #3b82f6;
+  display: flex;
+}
+.bluebox p {
+  padding: 30px 70px;
+}
+.btn2 {
+  color: #fff;
+  font-weight: bold;
+  height: 30px;
+  margin: 30px 20px 5px 20px;
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  border: 2px solid #fff;
+  background-color: transparent;
+}
